@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Yanghoon&fontSize=90&animation=blink)
 
 # I am
-- 23 years old, university junior in SNU
+- 23 years old, university senior in SNU
 - living in Seoul, Korea(:kr:)
 
 # I am interested in
